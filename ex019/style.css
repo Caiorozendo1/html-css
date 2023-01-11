@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(38, 235, 38);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color: blue;
+}
+h1#principal{
+    color: darkblue;
+    background-color: brown;
+   
+}
+}
+h2{
+    color: rgb(10, 17, 4);
+    font-weight: bold;
+}
+.basico{
+    color: red;
+}
+.cor2{
+    color: blue;
+}
